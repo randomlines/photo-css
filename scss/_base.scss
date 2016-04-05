@@ -1,0 +1,15 @@
+html, body
+{
+  height: 100%;
+}
+
+body
+{
+  background: no-repeat center center / cover;
+}
+
+footer
+{
+  padding: $global-padding $global-margin;
+  text-align: center;
+}
